@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  apiKey: 'k_aeffna75',
+  imdbUrl: 'https://imdb-api.com/es/API/'
 };
